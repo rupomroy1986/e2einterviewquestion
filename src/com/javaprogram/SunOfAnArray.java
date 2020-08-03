@@ -1,6 +1,7 @@
 package com.javaprogram;
 
 public class SunOfAnArray {
+	
 //method which accepts array and returns the sum of all the element in an array
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
