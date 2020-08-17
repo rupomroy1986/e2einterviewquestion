@@ -11,6 +11,8 @@ public class stringprogram {
 
 		String a = " javatraining";// string
 		String b="rupom";
+		String c="  welcome  to bangalore india        ";
+		String d="hello";
 
 		System.out.println(a.charAt(2)); // a
 		System.out.println(a.charAt(a.length()-1));
@@ -28,6 +30,13 @@ public class stringprogram {
 		System.out.println(abc[1]); // aining
 		System.out.println(a.replace("t", "s")); // javasraining
 		System.out.println(b.indexOf("rupom"));
+		
+		System.out.println("************interview questions*****************");
+		            System.out.println(c.trim());
+		                         System.out.println(c.replaceAll("\\s", ""));
+		                         
+		                         
+		                         
 		
 
 	}

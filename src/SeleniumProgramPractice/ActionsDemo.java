@@ -17,7 +17,7 @@ public class ActionsDemo {
 		//this is called as composite actions
 		a1.moveToElement(driver.findElement(By.id("twotabsearchtextbox"))).click().keyDown(Keys.SHIFT).sendKeys("hello").doubleClick().build().perform();
 		
-		//it is used for mouse over
+		//it is used for right click over
 		a1.moveToElement(driver.findElement(By.cssSelector("a[id='nav-link-accountList']"))).contextClick().build().perform();
 
 	}

@@ -11,5 +11,11 @@
 	<classpathentry kind="lib" path="C:/Users/rupom/Desktop/mysql-connector-java-5.1.21.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7-tests.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 15 cross browser testing with selenium grid/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

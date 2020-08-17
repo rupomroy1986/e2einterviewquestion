@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12545" started-at="2020-08-09T08:36:26Z" finished-at="2020-08-09T08:36:39Z">
+  <suite name="Default suite" duration-ms="40588" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12545" started-at="2020-08-09T08:36:26Z" finished-at="2020-08-09T08:36:39Z">
+    <test name="Default test" duration-ms="40588" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
       <class name="SeleniumProgramPractice.LoginApplication">
-        <test-method status="PASS" signature="Login()[pri:0, instance:SeleniumProgramPractice.LoginApplication@d2cc05a]" name="Login" duration-ms="12489" started-at="2020-08-09T08:36:26Z" finished-at="2020-08-09T08:36:39Z">
+        <test-method status="PASS" signature="Login()[pri:0, instance:SeleniumProgramPractice.LoginApplication@482f8f11]" name="Login" duration-ms="40532" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->

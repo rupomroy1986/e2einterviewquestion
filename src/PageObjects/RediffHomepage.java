@@ -8,7 +8,7 @@ public class RediffHomepage {
 	
 	
 	
-	WebDriver driver;
+	public WebDriver driver;
 
 	public RediffHomepage(WebDriver driver) {
 		// TODO Auto-generated constructor stub
