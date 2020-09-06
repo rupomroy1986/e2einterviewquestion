@@ -6,7 +6,7 @@ public class FibonassiSeries {
 		// TODO Auto-generated method stub
 		int a=1;
 		int b=2;
-		int sum;
+		int sum=0;
 		for(int i=1;i<10;i++)
 		{
 			  sum  =  a+b;  
