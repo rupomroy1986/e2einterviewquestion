@@ -17,5 +17,7 @@
 	<classpathentry kind="lib" path="D:/selenium/New folder/section 14- miscelleous topic in selenium webdriver/commons-io-2.7/commons-io-2.7-test-sources.jar"/>
 	<classpathentry kind="lib" path="D:/selenium/New folder/section 15 cross browser testing with selenium grid/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="D:/MQSQL/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 25-Log4j/apache-log4j-2.13.3-bin/log4j-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/New folder/section 25-Log4j/apache-log4j-2.13.3-bin/log4j-core-2.13.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

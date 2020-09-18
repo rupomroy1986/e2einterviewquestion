@@ -8,18 +8,21 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class Saucelabs {
-	public static final String USERNAME = "rahul2";
-	 public static final String ACCESS_KEY = "3234163f-d79b-44db-9be9-4ad5163147b";
+	//you will get this 3 lines from the official docs for sause labs
+	public static final String USERNAME = "rupom1986";
+	 public static final String ACCESS_KEY = "4e264af1-e42a-40d5-bc28-063171d13765";
 	 public static final  String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 
 	public static void main(String[] args) throws MalformedURLException {
 		
 		
 		DesiredCapabilities caps = DesiredCapabilities.chrome();
-		caps.setCapability("platform", "Windows 7");
-		caps.setCapability("version", "51.0");
+		//to give the proper information, search for the sause labs configurations in google.
+		caps.setCapability("platform", "Windows 10");
+		caps.setCapability("version", "41.0");
+		//here we have to connect with the sauselabs.
 		WebDriver driver= new RemoteWebDriver(new URL(URL), caps);
-		driver.get("www.google.com");
+		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
 				
 				
