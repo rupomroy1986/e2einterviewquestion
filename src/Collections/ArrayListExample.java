@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	      list.add("Mango");//Adding object in arraylist    
 	      list.add("Apple");    
 	      list.add("Banana");    
-	      list.add("Grapes");  
+	      list.add("Grapes");
 	      
 	      //Printing the arraylist object   
 	      System.out.println(list);  
@@ -29,7 +29,7 @@ public static void main(String[] args) {
 	                  {
 	                	  System.out.println("index:"+l1.previousIndex() + "" + "value:"+l1.previous());
 	                    }
-	                  
+	                 
 	      
 	      
 	      

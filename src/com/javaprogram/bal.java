@@ -15,7 +15,6 @@ String code=partialcode.split("&scope")[0];
 System.out.println(code);
 		
 		
-		
 		String str = "geekss@for@geekss"; 
 		System.out.println(str);
         String[] arrOfStr = str.split("@", 2); 
