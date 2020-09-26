@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40588" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
+  <suite name="Default suite" duration-ms="209" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40588" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
-      <class name="SeleniumProgramPractice.LoginApplication">
-        <test-method status="PASS" signature="Login()[pri:0, instance:SeleniumProgramPractice.LoginApplication@482f8f11]" name="Login" duration-ms="40532" started-at="2020-08-14T13:25:03Z" finished-at="2020-08-14T13:25:44Z">
+    <test name="Default test" duration-ms="209" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+      <class name="Streams.StreamExample">
+        <test-method status="PASS" signature="mergingList()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="mergingList" duration-ms="107" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- SeleniumProgramPractice.LoginApplication -->
+        </test-method> <!-- mergingList -->
+        <test-method status="PASS" signature="regular()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="regular" duration-ms="3" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regular -->
+        <test-method status="PASS" signature="sorted()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="sorted" duration-ms="14" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorted -->
+        <test-method status="PASS" signature="streamCollect()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="streamCollect" duration-ms="12" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+        <test-method status="PASS" signature="streamFilter()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="streamFilter" duration-ms="8" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamFilter -->
+        <test-method status="PASS" signature="streamMap()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="streamMap" duration-ms="2" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamMap -->
+        <test-method status="PASS" signature="uniqueNumberInArray()[pri:0, instance:Streams.StreamExample@20e2cbe0]" name="uniqueNumberInArray" duration-ms="3" started-at="2020-09-26T07:29:04Z" finished-at="2020-09-26T07:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uniqueNumberInArray -->
+      </class> <!-- Streams.StreamExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
