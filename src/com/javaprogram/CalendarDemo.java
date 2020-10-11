@@ -13,7 +13,7 @@ public class CalendarDemo {
 		System.out.println(sd.format(cal.getTime()));
 		             System.out.println(cal.get(Calendar.DAY_OF_MONTH));
 		             System.out.println(cal.get(Calendar.DAY_OF_WEEK_IN_MONTH));
-		             System.out.println(cal.get(Calendar.AM_PM));
+		             System.out.println(cal.get(Calendar.AM_PM)); //it will print 1 if it is PM.
 		             System.out.println(cal.get(Calendar.MINUTE));
 		             
 		             

@@ -58,6 +58,8 @@ public class PatternMatchingOne {
 		PatternMatchingOne.rupom();
 		System.out.println("another pattern matching examples");
 		rupomroy();
+		
+
 		          
 	}
 

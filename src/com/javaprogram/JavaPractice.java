@@ -1,6 +1,6 @@
 package com.javaprogram;
 
-public class bal extends abcDemo {
+public class JavaPractice extends abcDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -21,9 +21,11 @@ System.out.println(code);
   
         for (String a : arrOfStr) 
             System.out.println(a);
-        bal bc=new bal();
+        JavaPractice bc=new JavaPractice();
            System.out.println(bc.e);
            System.out.println(bc.f);
+           
+           
         
 	}
 

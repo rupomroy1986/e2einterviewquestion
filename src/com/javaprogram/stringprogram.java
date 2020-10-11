@@ -13,8 +13,7 @@ public class stringprogram {
 		String b="rupom";
 		String c="  welcome  to bangalore india        ";
 		String d="hello";
-
-		System.out.println(a.charAt(2)); // a
+       System.out.println(a.charAt(2)); // a
 		System.out.println(a.charAt(a.length()-1));
 		System.out.println(a.indexOf("e")); // -1
 		System.out.println(a.substring(2, 11)); // avatrai
@@ -35,7 +34,8 @@ public class stringprogram {
 		            System.out.println(c.trim());
 		                         System.out.println(c.replaceAll("\\s", ""));
 		                         
-		                         
+		   String ab=new String("victorsilchar") ;
+		   System.out.println(ab);
 		                         
 		
 

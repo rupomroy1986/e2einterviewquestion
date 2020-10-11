@@ -31,6 +31,22 @@ public static void main(String[] args) {
 		}
 		
 		System.out.println("the maximum value in am array is" +max);
+		System.out.println("****************using for loop also I have done");
+		for(int i=0;i<3;i++)
+		{
+			for(int r=0;r<3;r++)
+			{
+				if(a[r][mincoloumn]>max)
+				{
+					max=a[r][mincoloumn];
+				}
+			}
+		}
+		
+		System.out.println("the maximum value in am array is" +max);
+
+		
+		
 
 	}
 

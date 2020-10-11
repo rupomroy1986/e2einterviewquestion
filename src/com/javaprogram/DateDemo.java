@@ -8,6 +8,7 @@ public class DateDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//general format
+		//date is a class, it comes from util package.
 		Date d=new Date();
 		System.out.println(d.toString());
 		//for customized format
