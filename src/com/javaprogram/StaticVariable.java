@@ -16,7 +16,7 @@ String surname;
     static
     {
     	city="bangalore";
-    	a=10;
+    	
     }
     
     
